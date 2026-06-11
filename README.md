@@ -28,13 +28,13 @@ Dedicated **Fraud Analyst** and **SOC Analyst** seeking to enhance organizationa
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
 
 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
   
 <a href="https://coursera.org/share/d703d0053d430397634feb0acb273f28"><img src="https://www.bing.com/th/id/OIP.dV2mu3eeBAxmDuyXNpwRcwHaEK?w=214&h=128&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2" />
