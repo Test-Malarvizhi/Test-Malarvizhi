@@ -25,7 +25,7 @@ Dedicated **Fraud Analyst** and **SOC Analyst** seeking to enhance organizationa
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Footprinting and Reconnaissance         | <a href="https://github.com/Test-Malarvizhi/recon-footprint">Detection Lab</a>|
-
+| SOC L1 Alert Triage Lab                 | <a href="https://github.com/Test-Malarvizhi/SOC-L1-Alert-Triage-Lab">Detection Lab</a>|
 
 ## Tools
 
