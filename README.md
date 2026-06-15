@@ -44,3 +44,4 @@ Dedicated **Fraud Analyst** and **SOC Analyst** seeking to enhance organizationa
 ## Projects
 - Footprinting and Reconnaissance Project
 - SOC L1 Alert Triage Lab
+- Alert Reporting
